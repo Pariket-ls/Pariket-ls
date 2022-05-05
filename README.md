@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pariket Thakur 
-- 👀 I’m interested in =learning new things daily  
+- 👀 I’m interested in learning new things daily  
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
